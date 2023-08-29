@@ -1,0 +1,17 @@
+.container {
+    background-color: darkgray;
+    color: darkgray;
+    font-family: sans-serif;
+    padding: 30px;
+
+}
+
+.navbar a {
+    color: rgb(39, 35, 35);
+    
+    display: flex;
+    text-decoration: none;
+    margin: 20px;
+    
+    
+}

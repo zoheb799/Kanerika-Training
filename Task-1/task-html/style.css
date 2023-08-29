@@ -1,0 +1,38 @@
+.navbar {
+    text-decoration: none;
+    display: flex;
+    background-color: black;
+}
+.navbarr {
+    display: flex;
+    text-decoration: none;
+    
+
+}
+
+a {
+    text-decoration: none;
+    color: orange;
+    margin: 10px;
+}
+a:hover {
+    text-decoration: none;
+    color: rgb(249, 247, 243);
+    margin: 10px;
+}
+
+ ::selection {
+background-color: black;
+color: white;
+}
+.select {
+    background-image: linear-gradient(to bottom right, red, yellow);
+    border-left: 20px solid black;
+}
+
+a img:hover {
+    opacity: 50%;
+    border-radius: 50%;
+    height: 200px;
+    width: 80px;
+}
